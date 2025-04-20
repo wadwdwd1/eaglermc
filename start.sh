@@ -1,8 +1,6 @@
 #!/bin/bash
 echo starting...
-wget https://gitlab.com/potato1234/mc-2/-/archive/main/mc-2-main.zip
-unzip mc-2-main.zip
-cd bungee
+cd serv
 
 MTOD="${MTOD:-'wadmc.site'}"
 
